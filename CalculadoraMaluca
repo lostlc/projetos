@@ -1,0 +1,7 @@
+print ("Lucas Gabriel Appelt da Silva")
+print ("Prova de Introdução a Programação")
+
+print("Vamos multiplicar dois números")
+Nun1=float(input("digite o primeiro número:")) #recebe o primeiro número da equação
+Nun2=float(input("digite o segundo número:"))  #recebe o segundo número da equação
+Multiplicar=print( Nun1 * Nun2 ) 
